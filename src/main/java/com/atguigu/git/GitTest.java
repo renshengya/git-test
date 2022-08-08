@@ -12,5 +12,7 @@ public class GitTest {
         System.out.println("人");
         System.out.println("sss");
         System.out.println("hello git4");
+        System.out.println("hot-fix test");
+
     }
 }
