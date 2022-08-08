@@ -2,7 +2,7 @@ package com.atguigu.git;
 
 /**
  * @author shkstart
- * @create 2022-08-08-19:50
+ * 2022-08-08-19:50
  */
 public class GitTest {
 
@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("你好！");
         System.out.println("人");
         System.out.println("sss");
+        System.out.println("hello git4");
     }
 }
